@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3284b9a2-473a-4fcd-8c17-675d57041035" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Invoice-Generator-public-frontend-backend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.idea/invoice-generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/pnpm-lock.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/config/logger.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/config/typegoose.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/middleware/addRequestId.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/middleware/requestValidator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/repository/fileModelTypegoose.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/service/invoiceGeneratorService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/service/userService.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/types/invoiceItem.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/types/invoiceJsonRequest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/types/jwtUserModel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/types/role.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/src/types/user.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/invoice-generator-backend/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ZzfMNjpqtnOQXK0Fl8leI0GjTI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3284b9a2-473a-4fcd-8c17-675d57041035" name="Changes" comment="" />
+      <created>1703429781226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703429781226</updated>
+      <workItem from="1703429797538" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/invoice-generator-frontend" />
+    </ignored-roots>
+  </component>
+</project>

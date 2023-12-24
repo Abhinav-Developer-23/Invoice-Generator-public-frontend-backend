@@ -1,0 +1,5 @@
+1.To set up react query in nextjs. we have to make a provider file and edit the layot file.
+2.we can set refetch interval and stale time after which data will be new
+https://blog.logrocket.com/using-tanstack-query-next-js/
+https://github.com/abhinav-anshul/logrocket-tanstack-nextjs13
+https://www.youtube.com/watch?v=r8Dg0KVnfMA&t=1395s
